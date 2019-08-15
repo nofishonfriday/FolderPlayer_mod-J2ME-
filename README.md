@@ -9,5 +9,6 @@ Notable features:
 - list of favourite tracks
 - sleep timer
 - delete playing file
+- support for more audio filetypes than mp3 planned (depending on device)
 
 <img src="https://github.com/nofishonfriday/FolderPlayer_mod/blob/master/FP_mod2.jpg" alt="hi" class="inline"/>
