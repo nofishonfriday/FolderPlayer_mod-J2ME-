@@ -10,3 +10,4 @@ Notable features:
 - sleep timer
 - delete playing file
 
+https://github.com/nofishonfriday/FolderPlayer_mod/blob/master/FP_mod2.jpg
