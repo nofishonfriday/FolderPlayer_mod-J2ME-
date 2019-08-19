@@ -13,3 +13,6 @@ Notable features:
 - support for more audio filetypes than mp3 planned (depending on device)
 
 <img src="https://github.com/nofishonfriday/FolderPlayer_mod/blob/master/FP_mod2.jpg" alt="hi" class="inline"/>
+
+Download (.jad + .jar):
+see [releases](https://github.com/nofishonfriday/FolderPlayer_mod-J2ME-/releases)
