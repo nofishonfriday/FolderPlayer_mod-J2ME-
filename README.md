@@ -9,7 +9,7 @@ Notable features:
 - list of favourite tracks
 - sleep timer
 - delete playing file
-- barebones, no gimmicks = battery friendly
+- barebones, no gimmicks = battery friendly  
 ~~- support for more audio filetypes than mp3 planned (depending on device)~~
 - v1.2.0 adds support for playing all filetypes the user's device is able to play
 
