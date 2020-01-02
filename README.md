@@ -14,7 +14,7 @@ Notable features:
 - v1.2.0 adds support for playing all filetypes the user's device is able to play
 
 Know issues:
-- 'while playing' screen sometimes blanks or misses elements (can trigger a redraw by e.g. changing volume etc.)
+- 'while playing' screen sometimes blanks or misses elements (workaround: trigger a redraw by e.g. changing volume etc.)
 
 <img src="https://github.com/nofishonfriday/FolderPlayer_mod/blob/master/FP_mod2.jpg" alt="hi" class="inline"/>
 
