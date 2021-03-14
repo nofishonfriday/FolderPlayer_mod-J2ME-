@@ -12,6 +12,7 @@ Notable features:
 - delete playing file
 - barebones, no gimmicks = battery friendly  
 - v1.2.0 adds support for playing all filetypes the user's device is able to play
+- v1.3.0 can display ID3 tags of currently playing audio file (Options > Show track info, may crash occassionally...)
 
 Know issues:
 - 'while playing' screen sometimes blanks or misses elements (workaround: trigger a redraw by e.g. changing volume etc.)
