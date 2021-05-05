@@ -13,7 +13,8 @@ Notable features:
 - barebones, no gimmicks = battery friendly  
 - v1.2.0 adds support for playing all filetypes the user's device is able to play
 - v1.3.0 can display ID3 tags of currently playing audio file (Options > Show track info, may crash occassionally...)  
-(v1.3.x will probably be the last major version, **is anyone else actually still using this besides me? :D**)
+- v1.4.0 bookmark storage is no more limited to (small) record store space, now practically unlimted,  
+but not compatibel with all devices, see release notes
 
 
 Know issues:
