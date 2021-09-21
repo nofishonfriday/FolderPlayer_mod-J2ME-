@@ -19,6 +19,7 @@ but not compatibel with all devices, see release notes
 
 Know issues:
 - 'while playing' screen sometimes blanks or misses elements (workaround: trigger a redraw by e.g. changing volume etc.)
+- **probably not touchscreen compatible** (didn't test)
 
 <img src="https://github.com/nofishonfriday/FolderPlayer_mod/blob/master/FP_mod2.jpg" alt="hi" class="inline"/>
 
